@@ -1,6 +1,6 @@
 # 🐚 Unix Scripting Tools 
 
-This project contains three practical shell scripts written for the **KIT213 Unix Shell Scripting Assignment (2024)** at the University of Tasmania. Each script automates real-world system administration tasks such as file management, user login monitoring, and recordkeeping.
+This project contains three practical shell scripts written for the ** Unix Shell Scripting ** at the University of Tasmania. Each script automates real-world system administration tasks such as file management, user login monitoring, and recordkeeping.
 
 > 👨‍💻 Author: Duc Vinh Vu  
 > ⚠️ This was developed as a learning exercise, so there may be mistakes, omissions, or areas for improvement.
